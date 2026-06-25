@@ -77,7 +77,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Ceylon Guide'),
+        title: const Text('Ceylon Trail'),
         actions: [
           IconButton(
             icon: const Icon(Icons.bookmark),
